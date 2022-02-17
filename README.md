@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+欢迎访问我的博客主页[https://amiing.github.io/](https://amiing.github.io/)
 <!--
 **aMiing/aMiing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
