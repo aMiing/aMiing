@@ -1,7 +1,7 @@
 ### Hi there 👋
 欢迎访问我的博客主页[https://amiing.github.io/](https://amiing.github.io/)
 
-[![aMiing's github stats](https://github-readme-stats.vercel.app/api?username=aMiing)]
+![aMiing's github stats(https://github-readme-stats.vercel.app/api?username=aMiing)]
 <!--
 **aMiing/aMiing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
